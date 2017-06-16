@@ -1,5 +1,5 @@
-# MovieTrailer
-Fundamentals of Programming Project 1
+# Movie Trailer
+This project is part of Udacity's Course: Fundamentals of Programming Project 1
 
 # Overview
 This project displays a set of movies using the Python file fresh_tomatoes.py 
